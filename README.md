@@ -2,7 +2,10 @@
 # [Fruit Catcher Dynamic Arduino Video Game with Hardware](https://github.com/angelcollicazares/Fruit-Catcher-Dynamic-Arcade-Game)
 
 
-Uploading ScreenRecording_12-01-2024 15-13-50_1 (1).mp4…
+
+
+https://github.com/user-attachments/assets/19e22318-e4c5-4a1f-8b8d-9789a0baba7d
+
 
 
 
