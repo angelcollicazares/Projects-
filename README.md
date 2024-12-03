@@ -1,5 +1,4 @@
-# Projects- ( _Click Titles to View_ ) 
----
+# Projects- ( _Click Titles to View_ ) <br/>
 
 # [Fruit Catcher Dynamic Arduino Video Game with Hardware](https://github.com/angelcollicazares/Fruit-Catcher-Dynamic-Arcade-Game)
 
